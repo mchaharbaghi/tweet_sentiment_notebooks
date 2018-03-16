@@ -1,2 +1,3 @@
-# tweet_sentiment_notebooks
-How it works Jupyter Notebooks for Tweet Sentiment
+Open the Jupyter Notebooks using the link below:
+
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mchaharbaghi/jupyter_notebooks/master)
